@@ -34,17 +34,43 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 Gym Management System
+🔹 TriageTech — AI-Powered Medical Triage (Nepal) ⚕️
 
-* 🏋️ Full-stack MERN project
-* 🔐 Authentication system
-* 📊 Admin & user dashboard
+Hackathon 2025 | Team Project
 
-### 🔹 My Portfolio
 
-* 🌐 Personal portfolio website
-* 🎨 Modern UI design
-* ⚡ Fast & responsive
+🧠 Role: AI/ML Lead — designed the rule-based triage engine, conducted bias audit, led responsible AI documentation
+🌐 Bilingual (English + Nepali) symptom classifier: 🟢 Home Care / 🟡 See Doctor / 🔴 Emergency
+🏥 Clinic locator using Nepal MoHP geospatial data and Haversine distance formula
+📋 Full Responsible AI documentation: bias analysis, failure modes, misuse scenarios
+Stack: FastAPI (Python), React PWA, Nepali NLP, GeoJSON
+📄 Responsible AI Docs
+
+
+🔹 CourtSync — Futsal Court Booking System 🏟️
+
+Team Project
+
+
+⚽ Dark-themed futsal slot booking PWA for Nepal
+🔐 User authentication with role-based access (User / Admin)
+📅 Real-time slot management and booking history
+💬 AI-powered chat assistant integration
+Stack: React 18, TypeScript, Vite, Framer Motion, React Router, Tailwind CSS
+
+
+🔹 Gym Management System 🏋️
+
+Individual Project | Java OOP | BlueJ
+
+
+👥 Member management with two membership types: Regular and Premium
+📊 Attendance tracking with auto loyalty points (Regular: 5pts, Premium: 10pts)
+💳 Plan upgrade logic (Basic → Standard → Deluxe) based on attendance eligibility
+💰 Payment tracking and 10% discount on full premium payment
+🗂️ File-based data persistence using Java Serialization
+Stack: Java, OOP (Inheritance, Abstraction), BlueJ, Swing GUI
+
 
 ### 🔹 Next.js Boilerplate
 

@@ -75,18 +75,18 @@ Individual Project | C# OOP
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akash007-Mern&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash007-Mern&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akash-dhimal&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash-dhimal&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash007-Mern&theme=tokyo-night&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akash-dhimal&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
 ---
 
 ## 👀 Profile Views
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Akash007-Mern&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=akash-dhimal&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
